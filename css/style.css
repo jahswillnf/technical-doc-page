@@ -1,0 +1,9 @@
+body{
+    display: flex;
+}
+#nav-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    position: fixed;
+}
